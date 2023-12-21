@@ -1,5 +1,5 @@
 # MyFirstRepo
 ***TEST***
 '''
-My First Repository (FUCOS LNG SA GOAL)
+My First Repository FUCOS LNG SA GOAL
 '''
